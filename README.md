@@ -6,14 +6,14 @@ Ademas cada uno de los componentes creados dejan los simientos ideales para su r
 
 Algunas Views del proyecto:
 
-![Image Text](a)
+![Image Text](https://github.com/SquareMark/yard-sale-project/blob/master/Preview/Captura%20de%20pantalla%202022-04-05%20170336.png?raw=true)
 
-![Image Text](a)
+![Image Text](https://github.com/SquareMark/yard-sale-project/blob/master/Preview/Captura%20de%20pantalla%202022-04-05%20170527.png?raw=true)
 
-![Image Text](a)
+![Image Text](https://github.com/SquareMark/yard-sale-project/blob/master/Preview/Captura%20de%20pantalla%202022-04-05%20170607.png?raw=true)
 
-![Image Text](a)
+![Image Text](https://github.com/SquareMark/yard-sale-project/blob/master/Preview/Captura%20de%20pantalla%202022-04-05%20170626.png?raw=true)
 
-![Image Text](a)
+![Image Text](https://github.com/SquareMark/yard-sale-project/blob/master/Preview/g2038.png?raw=true)
 
-![Image Text](a)
+![Image Text](https://github.com/SquareMark/yard-sale-project/blob/master/Preview/g2144.png?raw=true)
